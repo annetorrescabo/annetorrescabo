@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am adding some texts in this file from GitKraken
 <!--
 **annetorrescabo/annetorrescabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
